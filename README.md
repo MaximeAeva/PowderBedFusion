@@ -3,7 +3,7 @@
 
 Magnetic powder bed laser fusion simulation
 
-![Hey!](https://github.com/MaximeAeva/PowderBedFusion/blob/master/hello.gif)
+![Hey!](https://github.com/MaximeAeva/PowderBedFusion/blob/main/hello.gif)
 
 ## Installation
 
