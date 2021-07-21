@@ -3,7 +3,24 @@
 
 Magnetic powder bed laser fusion simulation
 
-![Hey!](https://github.com/MaximeAeva/PowderBedFusion/blob/main/hello.gif)
+<p align="center">
+  <img src="https://github.com/MaximeAeva/PowderBedFusion/blob/main/hellonormal.gif">
+</p>
+
+If laser goes to fast, only air will be warmed up => There's no fusion
+<p align="center">
+  <img src="https://github.com/MaximeAeva/PowderBedFusion/blob/main/hellounder.gif">
+</p>
+
+If laser goes to slow, we can observe matter projection => There will be hole in the component
+<p align="center">
+  <img src="https://github.com/MaximeAeva/PowderBedFusion/blob/main/helloover.gif">
+</p>
+
+We can also try to predict the shape of the component
+<p align="center">
+  <img src="https://github.com/MaximeAeva/PowderBedFusion/blob/main/helloshape.gif">
+</p>
 
 ## Installation
 
