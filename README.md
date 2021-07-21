@@ -17,7 +17,14 @@ If laser goes to slow, we can observe matter projection => There will be hole in
   <img src="https://github.com/MaximeAeva/PowderBedFusion/blob/main/helloover.gif">
 </p>
 
-We can also try to predict the shape of the component
+We can also try to predict the shape of the component. 
+
+Thereafter, it can be observed 3 step :
+- Fusion
+- Marangoni effect (particules are evicted from the center)
+- Reaction effect (particules are attract to the center)
+
+Notice : At the end, we achieve to create a single part component which could be conductor ! Well done :wink:
 <p align="center">
   <img src="https://github.com/MaximeAeva/PowderBedFusion/blob/main/helloshape.gif">
 </p>
